@@ -1,2 +1,14 @@
 # sohu-app-lab
-HTML page archive and documentation
+
+静态文件发布目录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
